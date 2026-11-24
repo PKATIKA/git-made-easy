@@ -1,0 +1,4 @@
+Git quick start
+git status: Displays the current state
+git add: Stages selected file changes
+git commit: Records stages changes 
